@@ -1,0 +1,16 @@
+{
+  "name": "Attack",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 3, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A rock is a loyal, devoted pet that can easily be trained to protect you and your family.$(br2)Pet rocks will respond to the $(bold)Attack$() command in two ways. $(br2)If the threat is nearby, rocks will strike at attackers.$(br2)If the threat at a distance, rocks can be aimed and thrown at the target."
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:attack_rock",
+      "text": "In many areas owners may be held responsible for the actions of their Pet Rocks™.$(br2)When teaching your rock to $(bold)Attack$() be aware that you may face criminal charges due to the actions of your pet."
+    }
+  ]
+}

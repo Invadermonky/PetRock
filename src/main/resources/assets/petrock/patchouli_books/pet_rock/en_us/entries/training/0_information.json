@@ -1,0 +1,24 @@
+{
+  "name": "Training Information",
+  "category": "petrock:training",
+  "icon": "minecraft:writable_book",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nobody likes a surly, misbehaving rock. Therefore, it is important to begin your training immediately.$(br2)You should establish yourself as a figure of authority early, and that you demand certain good manners and impeccable behavior if the two of you are to have a happy, well-adjusted relationship."
+    },
+    {
+      "type": "text",
+      "text": "If your rock misbehaves at any point during training, you should repeat the phrase $(bold)Bad Rock!$() to let them know they have displeased you.$(br2)Some Pet Rocks™ can be hard of hearing, so you may need to shout at them while using intimidating body language to impress upon them that they have done something wrong.$(br2)You should always remember to reward good behavior as well. Should they perform the"
+    },
+    {
+      "type": "text",
+      "text": "command correctly, you must praise your rock and give it a pat of approval.$(br2)Always limit your training sessions to fifteen minutes, twice each day. One half-hour session is not recommended as a rock's attention span is rather short.$(br2)Extended sessions can actually have detrimental effects on your relationship."
+    },
+    {
+      "type": "text",
+      "text": "Always remember, a bored rock is an unhappy rock."
+    }
+  ]
+}

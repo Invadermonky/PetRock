@@ -1,0 +1,23 @@
+{
+  "name": "Rock Breeding",
+  "category": "petrock:rehabilitation",
+  "icon": "minecraft:flint",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Since the Paleolithic era, humans have been over-harvesting wild rocks and displacing them from their natural habitats.$(br2)There are numerous examples of this that can be seen throughout the world in such structures as Stonehenge, Machu Picchu, and the Pyramids of Giza."
+    },
+    {
+      "type": "text",
+      "text": "This brazen displacement has caused several rock species to nearly become extinct, with what few remain in the wild being dug up from their natural habitats and put through refining processes to extract anything that may be of value.$(br2)The Wild Rock Rehabilitation Project is a worldwide breeding program intended to help the majestic rock species return to its former glory."
+    },
+    {
+      "type": "text",
+      "text": "You too can be part of this effort.$(br2)For the low cost of three easy payments of 8 gold ingots, you can gain your very own Sedimentary Friend™ brand Rock Breeder Certification, allowing you to breed your own Pet Rocks.$(br2)All it takes is two Pet Rocks™ a few pieces of flint to help the rehabilitation project by bringing a new baby rock into the world."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)WARNING$()$(br2)Rock Breeding should only be performed by a licensed professional holding a Sedimentary Friend™ brand Rock Breeder Certificate.$(br2)Attempting to breed rocks without the proper documentation can result in potential criminal charges."
+    }
+  ]
+}

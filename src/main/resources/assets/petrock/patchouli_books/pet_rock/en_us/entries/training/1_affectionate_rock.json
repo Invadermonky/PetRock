@@ -1,0 +1,16 @@
+{
+  "name": "Cuddle",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 1, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "As it has been noted previously, rocks are incredibly sensitive creatures.$(br2)All it takes is something soft and warm and they will immediately begin cozying up to their owners.$(br2)Rocks may have a hard exterior, but they are always willing to show their affection, even when not being held."
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:affectionate_rock",
+      "text": "Due to their resilient and unmoving nature, rocks have been found to be excellent lifetime companions to those suffering emotional trauma."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Come",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 0, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Come",
+      "text": "$(bold)Come$() is one of the first commands you should teach your Pet Rock™.$(br2)A rock that does not come when it is called will cause its owner endless embarrassment.$(br2)To teach your rock this command, place them on the ground and move a distance away."
+    },
+    {
+      "type": "text",
+      "text": "Begin repeating the command $(bold)Come!$() or $(bold)Here Boy!$()$(br2)If your Pet Rock™ does not move, it is likely that they did not hear you the first time.$(br2)You may need to take a step forward and repeat the command. Amazingly, each time you step forward, your rock will move closer to you.$(br2)Once you are close enough, the rock will thrown themselves into your arms."
+    },
+    {
+      "type": "text",
+      "text": "Should you be carrying too much, Pet Rocks™ are smart enough to realize that you would be unable to hold them and will remain seated on the ground."
+    }
+  ]
+}

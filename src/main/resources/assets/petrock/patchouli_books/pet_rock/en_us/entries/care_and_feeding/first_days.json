@@ -1,0 +1,16 @@
+{
+  "name": "The First Days",
+  "category": "petrock:care_and_feeding",
+  "icon": "minecraft:paper",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Pet Rocks™ are known to be very sensitive, and may have been traumatized by its sudden newfound sentience.$(br2)It is advised to keep the rock on you at all times for a period of at least 3 to 4 days so it can form a lasting bond with its new owner.$(br2)If you find your Pet Rock™ struggling to adapt to its new"
+    },
+    {
+      "type": "text",
+      "text": "surroundings, some owners have noted that the sound of a nearby TNT fuse appears to have a soothing effect that aids in the imprinting process."
+    }
+  ]
+}

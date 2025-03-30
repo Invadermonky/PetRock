@@ -1,0 +1,16 @@
+{
+  "name": "Stay",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 0, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Stay",
+      "text": "$(bold)Stay$() is another basic command your must teach your Pet Rock™.$(br2)It is disconcerting to have a rock that wanders around the house when you are not around.$(br2)To teach them this command, place your rock on the ground and stare at them firmly and give them the command $(bold)Stay$()."
+    },
+    {
+      "type": "text",
+      "text": "Surprisingly, most rocks have no difficulty learning this command and respond obediently the first time they hear it.$(br2)More often than not, Pet Rocks™ are more than happy to remain in the same position for long periods.$(br2)However, should you leave them unattended for an extended periods, they may hide nearby and refuse to come out even when called."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Play Dead",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 0, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Play Dead",
+      "text": "$(bold)Play Dead$() is another trick nearly all rocks know.$(br2)In the wild, it is commonly used as a means of escaping predators, but for them to perform this trick on command command will require you to associate the words with their natural survival instincts.$(br2)You can teach your Pet Rock™ this trick by throwing them"
+    },
+    {
+      "type": "text",
+      "text": "into lava, onto a cactus or into fire and saying 'Play Dead' in a loud clear voice.$(br2)While this may seem cruel, rest assured that they will not be harmed, but will instead immediately play dead briefly before finding a nearby hiding place.$(br2)Should you be unable to find your rock after they hide, do not worry, simply stay near where they vanished and call their name until they return."
+    }
+  ]
+}

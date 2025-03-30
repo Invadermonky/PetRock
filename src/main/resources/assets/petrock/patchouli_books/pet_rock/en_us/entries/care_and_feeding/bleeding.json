@@ -1,0 +1,11 @@
+{
+  "name": "Blood Out of a Rock",
+  "category": "petrock:care_and_feeding",
+  "icon": "minecraft:potion{Potion: \"minecraft:strength\"}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "If you are getting blood out of your Pet Rock™, immediately contact your nearest politician or tax revenue service.$(br2)They have been attempting to do this for years and will pay handsomely for any information relating to accomplishing this feat."
+    }
+  ]
+}

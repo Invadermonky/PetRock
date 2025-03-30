@@ -1,0 +1,15 @@
+{
+  "name": "Care and Feeding",
+  "category": "petrock:care_and_feeding",
+  "icon": "minecraft:flint",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Pet Rocks™ love to eat flint and larger breeds have been known to consume as much as a meter cubed of gravel per day!$(br2)Luckily, smaller breeds are much more efficient in their consumption of food, generally only eating prior to mating season.$(br2)When not carrying your Pet"
+    },
+    {
+      "type": "text",
+      "text": "Rock™, it is important to place them in an area of their own, preferably overlooking living spaces or kitchens.$(br2)Do not place your Pet Rock™ inside of a chest or other storage container. This can cause lasting psychological trauma and in some countries is punishable by a 64 Diamond fine and up to a 3-year prison sentence."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Copy",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 6, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Certain rocks have the ability to mimic other substances when attempting to follow the $(bold)Copy$() command.$(br2)Some individuals have used this ability to aid in the creation of illicit substances.$(br2)$(bold)Do Not$() attempt to sniff, lick, or otherwise ingest Pet Rocks™ that are copying a foreign substance."
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:addictive_rock",
+      "text": "Doing so may result in deadened nerves, heightened senses, slowed perception, and nausea.$(br2)Being in close proximity to an addictive rock can result in symptoms of withdrawal."
+    }
+  ]
+}

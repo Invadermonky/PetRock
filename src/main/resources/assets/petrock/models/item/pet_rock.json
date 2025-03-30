@@ -1,0 +1,76 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "petrock:items/pet_rock"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "petrock:mode": 1
+      },
+      "model": "petrock:item/overrides/pet_rock_affectionate"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 2
+      },
+      "model": "petrock:item/overrides/pet_rock_ferocious"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 3
+      },
+      "model": "petrock:item/overrides/pet_rock_attack"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 4,
+        "petrock:blocking": 0
+      },
+      "model": "petrock:item/overrides/pet_rock_guard"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 4,
+        "petrock:blocking": 1
+      },
+      "model": "petrock:item/overrides/pet_rock_guard_blocking"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 5
+      },
+      "model": "petrock:item/overrides/pet_rock_soviet"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 6
+      },
+      "model": "petrock:item/overrides/pet_rock_addictive"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 7
+      },
+      "model": "petrock:item/overrides/pet_rock_jesus"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 8
+      },
+      "model": "petrock:item/overrides/pet_rock_hot_potato"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 9
+      },
+      "model": "petrock:item/overrides/pet_rock_radioactive"
+    },
+    {
+      "predicate": {
+        "petrock:mode": 10
+      },
+      "model": "petrock:item/overrides/pet_rock_fancy"
+    }
+  ]
+}

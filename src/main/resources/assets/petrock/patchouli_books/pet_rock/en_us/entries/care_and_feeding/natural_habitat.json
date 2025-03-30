@@ -1,0 +1,15 @@
+{
+  "name": "Natural Habitat",
+  "category": "petrock:care_and_feeding",
+  "icon": "minecraft:grass",
+  "pages": [
+    {
+      "type": "text",
+      "text": "In the wild, rocks can be found in nearly every biome on the planet.$(br2)In certain areas, rocks may pile on top of each other in mounds sometimes referred to as 'hills'. If enough rocks group together, they can even achieve a new classification called 'mountains'.$(br2)However, most rocks prefer to"
+    },
+    {
+      "type": "text",
+      "text": "live underground, usually with several layers of dirt between them and natural sunlight.$(br2)Pet Rocks™ are a breed of small rock often found on the surface of mountains.$(br2)This means that they are much less sedimentary than underground breeds, but come with their own unique challenges."
+    }
+  ]
+}

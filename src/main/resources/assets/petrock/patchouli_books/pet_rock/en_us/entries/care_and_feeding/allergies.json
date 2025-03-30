@@ -1,0 +1,15 @@
+{
+  "name": "Allergies",
+  "category": "petrock:care_and_feeding",
+  "icon": "minecraft:iron_pickaxe",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nearly all breeds of rocks are allergic some form of pickaxe.$(br2)While some may be more resilient than others, nearly all rocks will fall to pieces after repeated exposure.$(br2)To ensure your pet rock has a long and healthy life, keep them isolated from any pick or pickaxe-like tool."
+    },
+    {
+      "type": "text",
+      "text": "Always be sure to check the labels on the back of most rock products where it will be indicated if the item was packaged in a facility that handles pickaxes.$(br2)If possible, only use Sedimentary Friend™ brand accessories and food when available."
+    }
+  ]
+}

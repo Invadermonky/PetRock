@@ -1,0 +1,16 @@
+{
+  "name": "Guard",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 4, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "While naturally ill-equipped for defending others, with a little bit of help their resilient nature allows them to become staunch guardians.$(br2)The $(bold)Guard$() command causes your Pet Rock™ to take on a defensive stance, becoming nearly impervious to damage.$(br2)Simply holding your Pet Rock™ in your offhand is enough to "
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:guard_rock",
+      "text": "impart some of that defense to you.$(br2)Positioning the rock between yourself and any potential damage sources can negate all but the most powerful of blows."
+    }
+  ]
+}

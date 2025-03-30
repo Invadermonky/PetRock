@@ -1,0 +1,15 @@
+{
+  "name": "From the ASPCR",
+  "category": "petrock:rehabilitation",
+  "icon": "minecraft:feather",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Every day innocent rocks are mined, cracked, broken, crafted, and abandoned. And they're crying out for help.$(br2)For the low cost of 4 Gold Ingots a month, that's less than 2 nuggets per day, you'll help rescue rocks from their abusers and provide medical care, food, shelter, and love.$(br2)Call, or join online and you'll"
+    },
+    {
+      "type": "text",
+      "text": "$(br)receive a welcome kit with a photo of a rock you are helping to shelter. One who has been given a second chance, thanks to you.$(br2)Right now there's a rock somewhere who needs you. Your donation says, \"I'm here to help.\"$(br2)$(italic)This message was brought to you by the American Society for the Prevention of Cruelty to Rocks.$()"
+    }
+  ]
+}

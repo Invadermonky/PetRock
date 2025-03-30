@@ -1,0 +1,16 @@
+{
+  "name": "Throw",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 5, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(bold)Throw$() command is a trick most Pet Rocks™ can easily learn.$(br2)While they may need some assistance from their owners in terms of direction, they are more than capable of launching a projectile in the direction you are facing.$(br2)The more time you give them to aim, the more accurate and"
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:soviet_rock",
+      "text": "powerful the projectile will be.$(br2)You should always take heed to word your commands carefully as rocks are known to be extremely literal creatures."
+    }
+  ]
+}

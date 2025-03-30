@@ -1,0 +1,52 @@
+
+# Items
+item.petrock:affectionate_rock.name=Emotional Support Rock
+item.petrock:attack_rock.name=Attack Rock
+item.petrock:broken_rock.name=Broken Rock
+item.petrock:addictive_rock.name=Addictive Rock
+item.petrock:fancy_rock.name=Fancy Rock
+item.petrock:ferocious_rock.name=Ferocious Rock
+item.petrock:guard_rock.name=Guard Rock
+item.petrock:hot_potato_rock.name=Hot Potato Rock
+item.petrock:jesus_rock.name=Jesus Rock
+item.petrock:pet_rock.name=Pet Rock
+item.petrock:radioactive_rock.name=Radioactive Rock
+item.petrock:rock_box.name=Sedimentary Friend™ Pet Rock™
+item.petrock:soviet_rock.name=Soviet Rock
+
+# JEI
+jei.petrock:pet_rock.info=Want to try breeding your pet rocks? Place two rocks close to one another and give them a few pieces of flint.\n\nOnly with your help can this endangered species return to its former glory!
+
+# Subtitle
+subtitle.petrock:radioactive_rock=HIT THE DECK!!!!
+subtitle.petrock:soviet_rock=Comrade Corundum Approved
+
+# Tooltips
+tooltip.petrock:affectionate_rock=Affectionate
+tooltip.petrock:affectionate_rock.desc=Spawns heart particles randomly or on use
+tooltip.petrock:attack_rock=Attack Rock
+tooltip.petrock:attack_rock.desc=Can be used as a weapon, or thrown to deal damage
+tooltip.petrock:broken_rock=Power Level: %d / %d
+tooltip.petrock:broken_rock.desc=Item is registered as EVERY registered ore dictionary
+tooltip.petrock:addictive_rock=Addictive Rock
+tooltip.petrock:addictive_rock.desc=Can be eaten to gain a speed boost, occasionally causes weakness and slowness
+tooltip.petrock:fancy_rock=Fancy
+tooltip.petrock:fancy_rock.desc=Does nothing. Definitely a worthwhile upgrade
+tooltip.petrock:ferocious_rock=Ferocious
+tooltip.petrock:ferocious_rock.desc=Use to roar like a dragon
+tooltip.petrock:guard_rock=Guard Rock
+tooltip.petrock:guard_rock.desc=Increases armor when held in offhand, cancels all damage while blocking
+tooltip.petrock:hot_potato_rock=Hot Potato
+tooltip.petrock:hot_potato_rock.desc=Swapping hands grants a short fire resistance buff, holding for too long sets the player on fire
+tooltip.petrock:jesus_rock=Jesus Rock
+tooltip.petrock:jesus_rock.desc=Cures wither and poison when held, can be eaten to restore hunger
+tooltip.petrock:pet_rock=Stock
+tooltip.petrock:pet_rock.desc=Does nothing. What were you expecting? It's a rock.
+tooltip.petrock:radioactive_rock=Radioactive
+tooltip.petrock:radioactive_rock.desc=Can be thrown to cause a massive explosion, occasionally causes poison
+tooltip.petrock:rock_box.desc=Contains:
+tooltip.petrock:rock_box.contents=%d %s
+tooltip.petrock:rock_box.info=Right click to open
+tooltip.petrock:soviet_rock=Soviet
+tooltip.petrock:soviet_rock.desc=Launches the player in the direction they are looking
+

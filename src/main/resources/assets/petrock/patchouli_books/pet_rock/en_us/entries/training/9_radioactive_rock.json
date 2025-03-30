@@ -1,0 +1,17 @@
+{
+  "name": "Explode",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 9, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(bold)Explode$() command is a trick that must be handled very carefully.$(br2)While your Pet Rock™ might be more that willing to follow your orders, it has been documented that when certain laboratory rocks are pressed together, it can result in a massive explosion.$(br2)In controlled environments, "
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:radioactive_rock",
+      "text": "this release of energy can be captured and used to boil water very efficiently.$(br2)While your Pet Rock™ may not be capable of such extreme feats, it is more than willing to do its best at your behest."
+    }
+  ]
+}

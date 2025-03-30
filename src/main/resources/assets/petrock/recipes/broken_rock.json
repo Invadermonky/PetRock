@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "petrock:pet_rock"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "petrock:broken_rock"
+  },
+  "conditions": [
+    {
+      "type": "minecraft:item_exists",
+      "item": "petrock:broken_rock"
+    }
+  ]
+}

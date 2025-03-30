@@ -1,0 +1,7 @@
+{
+  "name": "Pet Rock: Care and Training",
+  "landing_text": "A guide to care, and training of your Pet Rock™.$(br2)$(bold)CONGRATULATIONS!$()$(br2)You are now the owner of a genuine Sedimentary Friend™ brand Pet Rock™.$(br2)It is advised to fully read through this manual before interacting with your new pet.",
+  "book_textures": "patchouli:textures/items/book_gray.png",
+  "model": "patchouli:book_gray",
+  "show_progress": false
+}

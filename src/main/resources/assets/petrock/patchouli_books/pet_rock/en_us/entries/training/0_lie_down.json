@@ -1,0 +1,16 @@
+{
+  "name": "Lie Down",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 0, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Lie Down",
+      "text": "While it is one of the easier commands for Pet Rocks™ to learn, teaching the $(bold)Lie Down$() command is best accomplished in conjunction with $(bold)Sit$().$(br2)After your Pet Rock™ has remained in the sitting position for a while, give it the $(bold)Lie Down$() command.$(br2)If you made a big fuss about properly teaching your rock to"
+    },
+    {
+      "type": "text",
+      "text": "sit, it may be reluctant to move. You can push your rock firmly into the ground and it will soon understand what you want it to do.$(br2)Be sure to praise your rock and give it a reassuring hug."
+    }
+  ]
+}

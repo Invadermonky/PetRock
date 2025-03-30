@@ -1,0 +1,16 @@
+{
+  "name": "Sit",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 0, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Sit",
+      "text": "$(bold)Sit$() is not a difficult command to teach a Pet Rock™ as they spend the bulk of their time sitting.$(br2)However, a refresher course if recommended since you want your rock to sit when you want it to, not when it wants to.$(br2)Place your rock in the training area and give it the command $(bold)Sit$()."
+    },
+    {
+      "type": "text",
+      "text": "Many rocks will attempt to deceive you by lying down, thinking that you won't be able to tell the difference.$(br2)You should repeat the command until they sit properly as told."
+    }
+  ]
+}

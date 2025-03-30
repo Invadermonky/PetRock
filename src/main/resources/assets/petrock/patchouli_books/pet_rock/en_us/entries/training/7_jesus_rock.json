@@ -1,0 +1,16 @@
+{
+  "name": "Find",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 7, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "When teaching Pet Rocks™ the $(bold)Find$() command, it is always important to be specific.$(br2)Failing to do so may result in your Pet Rock™ journeying to the ends of the earth to find enlightenment or religion.$(br2)Some claim that Pet Rocks™ that have found religion gain purifying powers, cleansing owners of some ailments when held."
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:jesus_rock",
+      "text": "Some owners claim that chewing on Pet Rocks™ performing this trick can satisfy hunger, but this is not recommended.$(br2)Ingesting even a small part of a Pet Rock™ can cause permanent damage to both your teeth and digestive track."
+    }
+  ]
+}

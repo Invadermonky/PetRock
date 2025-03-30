@@ -1,0 +1,13 @@
+{
+  "name": "Important!",
+  "category": "petrock:training",
+  "icon": "minecraft:writable_book",
+  "priority": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "You should only use Sedimentary Friend™ brand equipment when training your Pet Rock™.$(br2)Failure to do so can result in infections or contamination which will significantly decrease the life expectancy of your Pet Rock™."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Combust",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 8, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(bold)Combust$() command is a complex command that only some Pet Rocks™ can learn.$(br2)Issuing this command will cause your pet rock to begin vibrating rapidly until it bursts into flames.$(br2)Do not worry! This is a perfectly natural phenomenon and does not harm the rock at all."
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:hot_potato_rock",
+      "text": "Holding onto a Pet Rock™ acting out the $(bold)Combust$() command is not recommended as it can result in serious burns.$(br2)You should transfer the rock hand to hand to avoid any negative effects."
+    }
+  ]
+}

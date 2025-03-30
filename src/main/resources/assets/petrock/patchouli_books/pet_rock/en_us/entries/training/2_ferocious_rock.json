@@ -1,0 +1,16 @@
+{
+  "name": "Roar",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 2, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(bold)Roar$() command is a useful command when violence is not an option.$(br2)After issuing the command, your Pet Rock™, will unleash a loud roar, frightening away small children.$(br2)It is advised to use this command when dealing with cows, sheep, chicken and pigs that are obviously plotting"
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:ferocious_rock",
+      "text": "against you, or when you need to escape from a quiet romantic moment.$(br2)After roaring, Pet Rocks™ will need a moment to catch their breath before they can take any other action."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "radioactive_rock": {
+    "sounds": [
+      "petrock:radioactive_rock"
+    ],
+    "subtitle": "subtitle.petrock:radioactive_rock"
+  },
+  "soviet_rock": {
+    "sounds": [
+      "petrock:soviet_rock"
+    ],
+    "subtitle": "subtitle.petrock:soviet_rock"
+  }
+}

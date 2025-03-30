@@ -1,0 +1,15 @@
+{
+  "name": "Act Fancy",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 10, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You should take care to not over-indulge the fancies of your Pet Rock™.$(br2)While they can be extremely loyal companions, it has been known for them to become extremely spoiled, often refusing the most basic of commands with an indignant 'Hrng'."
+    },
+    {
+      "type": "crafting",
+      "recipe": "petrock:fancy_rock"
+    }
+  ]
+}

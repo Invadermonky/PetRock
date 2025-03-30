@@ -1,0 +1,16 @@
+{
+  "name": "Turn Around",
+  "category": "petrock:training",
+  "icon": "petrock:pet_rock{mode: 0, upgrades: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Turn Around",
+      "text": "$(bold)Turn Around$() is a simple command you can teach your Pet Rock™.$(br2)Commonly used as a dance to attract prospective mates, rocks in the world will often stand in place and spin slowly.$(br2)While you can teach your Pet Rock™ to perform this action on command, it is not recommended to do so as it"
+    },
+    {
+      "type": "text",
+      "text": "may interfere with their ability to find a potential mates in the future.$(br2)Should you wish to observe this wondrous ballet, you can place a second Pet Rock™ near the first. If the rocks are attracted to one another, they will begin spinning together.$(br2)There is no need to worry about accidental breeding. Rocks will only procreate when food is nearby and plentiful."
+    }
+  ]
+}
